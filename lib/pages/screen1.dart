@@ -20,7 +20,7 @@ class _Screen1State extends State<Screen1> {
     return Scaffold(
       appBar: AppBar(title: const Text("Screen 1")),
       body: const Center(
-        child: Text("Navigating to Screen 2 in 5 seconds..."),
+        child: Text("Navigating to Screen 2 in 5 seconds....."),
       ),
     );
   }
